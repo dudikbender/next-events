@@ -1,3 +1,6 @@
-Made for Udemy NextJS Course.
+Routes for app;
 
-Search through the commit history for previous iterations of the app.
+/ - Show featured events
+/events - show all events
+/events/<event-id> - show specific event
+/events/...slug - filter and search events
